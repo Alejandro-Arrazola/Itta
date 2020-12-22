@@ -4,7 +4,7 @@ import pandas as pd
 ITEM_SHEET = "items"
 CLIENT_SHEET = 'items'
 SPREAD_SHEET_KEY = "1NOqIWV5xVBagI_8OwMWNP2FUrFjVAE5tKnsMvVO1y5A"
-CREDS_JSON = "Itta-109ed1ef7cab.json"
+CREDS_JSON = "Config\Itta-109ed1ef7cab.json"
 
 class gsheet_helper:
     def __init__(self):
