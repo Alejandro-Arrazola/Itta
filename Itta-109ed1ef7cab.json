@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "itta-299418",
+  "private_key_id": "109ed1ef7cabf0df0e9251b358a82b824927bdd6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDGdZHreOuJTIUG\n4XkvpmcTtouRniwdIeKZZq4MHTHnxWUwdGGWWQn+qByLAA0LXvT1Rx+mnyaV1Lrm\nkJgo73WVuaDk6Q49FPJUI+ctlWCqI87qOdztyjj/VcYOjbyGK9xcVXnvxl43/X5V\nmIkvKZR1zNDbL1Mx/GImuTPDqVL7mmdyNjUQT+MVarbqCLBnBEonepdMh007lDIf\nnK/Xu/pwzWo6G1NGHBWjyZx133wOWU9tCKuiHiwcnYB+0tH2E2ijj7w4NkOKYC1P\nj31hJ5Sgxdk+hro9EiliND4o0jfDdfa0oNIu3Y7cGOjCtAkPSkOEvsYnhSAd3mh7\npjklfX7/AgMBAAECggEAWNjxxtWPvRwAwh/XPTnmE7E5sqt5XGF7LOoHKW04lmaM\n8rBnsAOUselZPfF75YdRay24QcQmZhWixu4c8NajcbB1E4Yy1a22/2xDZujlKcZ2\nL+5PtjU+ZzFjRci2ierA8KVjvbC1JaPbFz7+y5p12HclWbtKJ6qx1lw7jHEVsYWY\nDEFrbog5D3OySGyua+OFI/7fc1vNX/Z+KR0GyCDifFmb6vu7EbRIzAn7THqmyITC\nl6l4fbmFeRgNGU0dSSyN5qAJbaJ5oiZGgLTJ4FRAEMqVBuoJZ9sPyHiW0aGBvrOi\nCdzaggjpB75AfVYRe0ztyJolC/SbsnxZQkY7wVUKIQKBgQD154R9ovWA9PSW+/rq\nIRHpsC2HvwAOfmqlvxtfOxaA9/PNLiHV8t4qv1mlkCozUz5U/l/7IamdneoeLvRz\n6xSu1mQ7etg0RXOEIVttDo1F83QCT921mNvI9sbtVfDIPDJfQpY5F15WRzWW6ZZL\nO11sDbcAdpLg/ND3mN1puYwpTQKBgQDOm2YogeDBnoSPBOxQehJ6FnM/WRQQmgSa\nuYuKtlYoAIKRUJfjVCep509Wb2k9rKkIoiM54Tf5p0/3Zd83obeSBXLXI/FZUvSc\n1ZhzrTAHpOKp3J/fCVEmI4cCWLlFFjUIBggvxRDEWuN1ESUmn8MFRt4NC7WyNMVx\nLVZ00nDDewKBgCxFhVX1O8v+zfZM4Wy7jXUMMfZJjeIOInc6w9vOUIvhmDQthQv2\n0MbTcnlbTi21Y/h7X55f/iCRaLAMdhhUj4G2uY732+r1Qgnc04/72bVpUk6EQH9M\nSO2SeFgMa/Aw3kTGQTOAIIzZ/yzvWw6qXnRwt6zOrDzzZ0/cZqh9Ll3VAoGAV51u\n5R6uwW0Hqd7cmAQscbmzhdmwuJmX+kVU9637O1t8A0O6JZ06dMKy0mTMrGrcA90+\nMv1fT2+0aaW5002xGytUWAfWAZs8QIYT8HoxNAyoUoBNC7hXwWSvjD8z0ihotM5a\nCmf3hE1GyA5NQuPdQA+desrMcpYOZMBlOYVEbKECgYAKPgb57lrvWhZpuKNkv0dQ\nmXuO35CRZFQX5wFlv0aJdpC2c3ayBmwiN3YZ7cCPpKJHGyAXvOsGbxbyHXPGZfaN\ndpeHBNoCltnNZ9rlLiBCwcUBpYVRdOhLUDnyxZNQu3W1UP22d1BTpumc555acMvh\n/EG0lqzPQBVfmuxCWAifdw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "itta-data@itta-299418.iam.gserviceaccount.com",
+  "client_id": "102768005889185062390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/itta-data%40itta-299418.iam.gserviceaccount.com"
+}
